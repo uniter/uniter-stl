@@ -1,0 +1,33 @@
+{
+  "name": "uniter-stl",
+  "version": "0.1.0",
+  "description": "Uniter STL: The standard library for Uniter, in one.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "php",
+    "uniter"
+  ],
+  "author": "Ingwie Phoenix <ingwie2000@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniter/uniter-stl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uniter/uniter-stl/issues"
+  },
+  "homepage": "https://github.com/uniter/uniter-stl#readme",
+  "dependencies": {
+    "phpjs": "^1.3.2"
+  },
+  "devDependencies": {
+    "phpcommon": "^1.3.0",
+    "phpcore": "^1.3.0",
+    "phpruntime": "^2.6.0",
+    "phptoast": "^2.2.0",
+    "phptojs": "^1.4.0"
+  }
+}
